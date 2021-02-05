@@ -25,6 +25,7 @@ If you are on ubuntu/linux, you can install these libraries through apt and or p
 - [optional] scikit-learn (for ML tools) https://scikit-learn.org/stable/
 
 **Interactive notebooks**
+
 I use python notebooks for exploratory analysis. The alternative, doing the analysis from regular python scripts, breaks my concentration and gets tedious, e.g., because you have to switch between a text editor (for changing analysis), command prompt (for running scripts), and images / windows (for viewing results). 
 
 - For running notebooks locally (on your laptop), I like nteract https://nteract.io
