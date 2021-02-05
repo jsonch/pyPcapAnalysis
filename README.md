@@ -1,7 +1,7 @@
 # pyPcapAnalysis
 This is a quick guide to getting started with exploratory pcap analysis using python. There's no one right to do exploratory analysis -- this just summarizes my personal approach / workflow. 
 
-##Usage
+## Usage
 
 1. install the prerequisites python libs and either nteract or Jupyter. (see below)
 2. look at the pcapAnalysis.ipynb notebook for a simple example of parsing, aggregating, and plotting some simple statistics on the packet traces. 
